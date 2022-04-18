@@ -1,0 +1,25 @@
+.mainContent {
+    padding: 6rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    max-width: 1025px;
+    margin: 0 auto;
+}
+
+.mainContent_headline {
+    color: black;
+    text-align: center;
+    font-size: 4rem;
+}
+
+.mainContent_paragraph {
+    margin-bottom: 30px;
+}
+
+.mainContent_Images {
+    width: 100%;
+    margin-bottom: 30px;
+}
